@@ -6453,7 +6453,7 @@ button ins {
     border-width: 3px;
     line-height: 38px;
     border-radius: 6px;
-    margin-right: 15px; }
+    margin-right: 0px; }
   @media screen and (min-width: 992px) {
     .cs-book_shelf .book-junky-shop .product-content .add_to_cart_button {
       margin-bottom: 10px; } }
@@ -6461,7 +6461,7 @@ button ins {
     border-radius: 6px;
     background-color: transparent;
     height: 44px;
-    padding: 0 25px;
+    padding: 0 5px;
     border: 3px solid #fe4343;
     transition: all 0.3s ease 0s; }
   @media screen and (min-width: 992px) {
