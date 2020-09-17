@@ -1,0 +1,148 @@
+[class^="zmdi-"], [class*=" zmdi-"] {
+	display: inline-block;
+	font-family: 'Material-Design-Iconic-Font';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+@font-face {
+    font-family: 'averta-semibold-italic';
+    src: url('../fonts/averta_semibold_italic-webfont.woff2') format('woff2'),
+         url('../fonts/averta_semibold_italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'averta-semibold';
+    src: url('../fonts/averta_semibold-webfont.woff2') format('woff2'),
+         url('../fonts/averta_semibold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'averta-thin-italic';
+    src: url('../fonts/averta_thin_italic-webfont.woff2') format('woff2'),
+         url('../fonts/averta_thin_italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'averta-thin';
+    src: url('../fonts/averta_thin-webfont.woff2') format('woff2'),
+         url('../fonts/averta_thin-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'averta-black-italic';
+    src: url('../fonts/averta_black_italic-webfont.woff2') format('woff2'),
+         url('../fonts/averta_black_italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'averta-black';
+    src: url('../fonts/averta_black-webfont.woff2') format('woff2'),
+         url('../fonts/averta_black-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'averta-bold-italic';
+    src: url('../fonts/averta_bold_italic-webfont.woff2') format('woff2'),
+         url('../fonts/averta_bold_italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'averta-bold';
+    src: url('../fonts/averta_bold-webfont.woff2') format('woff2'),
+         url('../fonts/averta_bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'averta-extrabold-italic';
+    src: url('../fonts/averta_extra_bold_italic-webfont.woff2') format('woff2'),
+         url('../fonts/averta_extra_bold_italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'averta-extrabold';
+    src: url('../fonts/averta_extra_bold-webfont.woff2') format('woff2'),
+         url('../fonts/averta_extra_bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'averta-extrathin-italic';
+    src: url('../fonts/averta_extrathin_italic-webfont.woff2') format('woff2'),
+         url('../fonts/averta_extrathin_italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'averta-extrathin';
+    src: url('../fonts/averta_extrathin-webfont.woff2') format('woff2'),
+         url('../fonts/averta_extrathin-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'averta-light-italic';
+    src: url('../fonts/averta_light_italic-webfont.woff2') format('woff2'),
+         url('../fonts/averta_light_italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'averta-light';
+    src: url('../fonts/averta_light-webfont.woff2') format('woff2'),
+         url('../fonts/averta_light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'averta-regular-italic';
+    src: url('../fonts/averta_regular_italic-webfont.woff2') format('woff2'),
+         url('../fonts/averta_regular_italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'averta-regular';
+    src: url('../fonts/averta.woff2') format('woff2'),
+         url('../fonts/averta.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
